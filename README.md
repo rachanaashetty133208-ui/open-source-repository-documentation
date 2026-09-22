@@ -1,6 +1,3 @@
-# open-source-repository-documentation
-This repository follows basic open-source documentation and Git collaboration practices...
-
 # Open-Source Repository Documentation
 
 ## Project Overview
@@ -29,5 +26,4 @@ This repository demonstrates an improved documentation structure for an open-sou
 ### 1. Clone the repository
 
 ```bash
-
-https://github.com/rachanaashetty133208-ui/open-source-repository-documentation.git
+git clone https://github.com/rachanaashetty133208-ui/open-source-repository-documentation.git
