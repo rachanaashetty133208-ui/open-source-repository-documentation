@@ -1,2 +1,2 @@
 # open-source-repository-documentation
-Improved documentation and contribution guidelines for an open-source repository
+This repository follows basic open-source documentation and Git collaboration practices...
